@@ -1,0 +1,26 @@
+{
+  "name": "webgl",
+  "version": "1.0.0",
+  "description": "hello webgl",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mijie1023/webGL.git"
+  },
+  "keywords": [
+    "webgl"
+  ],
+  "author": "mijie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mijie1023/webGL/issues"
+  },
+  "homepage": "https://github.com/mijie1023/webGL#readme"
+}
